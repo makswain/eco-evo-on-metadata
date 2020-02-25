@@ -1,6 +1,6 @@
 # eco-evo-on-metadata
 
-Read the file Metadata.pdf. You are to write metadata and submit it to this repository. You will need a github account to do this. Alternatively, email your data to ahurford-at-mun.ca. If you submit a file you are agreeing to the file being discussed at eco-evo.
+Before attending Eco-Evo you should read the file Metadata.pdf. You are to write metadata and submit it to this repository. You will need a github account to do this. Alternatively, email your data to ahurford-at-mun.ca. If you submit a file you are agreeing to the file being discussed at eco-evo.
 
 Some helpful resources:
 
